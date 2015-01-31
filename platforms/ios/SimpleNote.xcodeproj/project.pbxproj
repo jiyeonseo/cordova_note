@@ -44,6 +44,7 @@
 		BA665E95D5EF45B0BA61AD1B /* CDVNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = F04324948A62427C99A71D6D /* CDVNotification.m */; };
 		24DC771504AD44BE9AB4F4B7 /* CDVNotification.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 68C970DC45B5465AB851EE07 /* CDVNotification.bundle */; };
 		7D54851E31E549E2845B54CB /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B00C821AC60496998918813 /* AudioToolbox.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		D1CE000F5FA9414999A44B9B /* CDVLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = B33C77D5FF784F89B99DB1CB /* CDVLogger.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -116,6 +117,8 @@
 		934C75DEC182436483A0B571 /* CDVNotification.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVNotification.h"; path = "org.apache.cordova.dialogs/CDVNotification.h"; sourceTree = "<group>"; fileEncoding = 4; };
 		68C970DC45B5465AB851EE07 /* CDVNotification.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = "CDVNotification.bundle"; path = "CDVNotification.bundle"; sourceTree = "<group>"; };
 		7B00C821AC60496998918813 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "AudioToolbox.framework"; path = "System/Library/Frameworks/AudioToolbox.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
+		B33C77D5FF784F89B99DB1CB /* CDVLogger.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVLogger.m"; path = "org.apache.cordova.console/CDVLogger.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		DC36A19574614AFDAD104DFD /* CDVLogger.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVLogger.h"; path = "org.apache.cordova.console/CDVLogger.h"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -223,6 +226,8 @@
 				68A2FC8856B3457592E4174D /* SQLitePlugin.h */,
 				F04324948A62427C99A71D6D /* CDVNotification.m */,
 				934C75DEC182436483A0B571 /* CDVNotification.h */,
+				B33C77D5FF784F89B99DB1CB /* CDVLogger.m */,
+				DC36A19574614AFDAD104DFD /* CDVLogger.h */,
 			);
 			name = Plugins;
 			path = "SimpleNote/Plugins";
@@ -410,6 +415,7 @@
 				302D95F114D2391D003F00A1 /* MainViewController.m in Sources */,
 				8B8BD0061D9E4B418C6A1959 /* SQLitePlugin.m in Sources */,
 				BA665E95D5EF45B0BA61AD1B /* CDVNotification.m in Sources */,
+				D1CE000F5FA9414999A44B9B /* CDVLogger.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

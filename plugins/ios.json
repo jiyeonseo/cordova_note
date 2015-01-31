@@ -31,6 +31,10 @@
                         {
                             "xml": "<feature name=\"Notification\"><param name=\"ios-package\" value=\"CDVNotification\" /></feature>",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Console\"><param name=\"ios-package\" value=\"CDVLogger\" /></feature>",
+                            "count": 1
                         }
                     ]
                 }
@@ -42,6 +46,9 @@
             "PACKAGE_NAME": "net.jiyeonseo.note"
         },
         "org.apache.cordova.dialogs": {
+            "PACKAGE_NAME": "net.jiyeonseo.note"
+        },
+        "org.apache.cordova.console": {
             "PACKAGE_NAME": "net.jiyeonseo.note"
         }
     },

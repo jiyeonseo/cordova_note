@@ -1,23 +1,20 @@
 function ListController($scope){
+
+
+
     $scope.noteList = [];
 
     $scope.add = function(){
         var inputValue = $scope.input;
         $scope.input = "";
         dbInsert(inputValue);
-//        var note = {
-//            "title" : inputValue
-//        }
-//        $scope.noteList.push(note);
         dbSelect();
 
     }
     $scope.delete = function(index){
         var id = $scope.noteList[index].id;
-//        $scope.noteList.splice(index, 1);
-        alert(id);
-
         dbDelete(id);
+        dbSelect();
     }
 
     var db;
@@ -58,7 +55,7 @@ function ListController($scope){
             tx.executeSql("INSERT INTO note (data) VALUES (?)", [data], function(tx, res) {
                 console.log("insertId: " + res.insertId + " -- probably 1");
                 console.log("rowsAffected: " + res.rowsAffected + " -- should be 1");
-//                dbSelect();
+
             }, function(e) {
                 alert("err "+ e.message);
                 console.log("ERROR: " + e.message);
@@ -72,7 +69,7 @@ function ListController($scope){
             tx.executeSql("DELETE FROM note WHERE id=?", [id], function(tx, res) {
                 console.log("insertId: " + res.insertId + " -- probably 1");
                 console.log("rowsAffected: " + res.rowsAffected + " -- should be 1");
-                dbSelect();
+
             }, function(e) {
                 console.log("ERROR: " + e.message);
             });
@@ -98,6 +95,9 @@ function ListController($scope){
         // function, we must explicitly call 'app.receivedEvent(...);'
         onDeviceReady: function() {
             app.receivedEvent('deviceready');
+            console.warn("warn");
+            console.info("info");
+            console.error("error");
             //
 
 //            navigator.notification.confirm("msg",

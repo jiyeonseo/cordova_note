@@ -37,7 +37,7 @@
       <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="0" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.11278196" vertical-offset="735" max-vertical-offset="1770">
+            <state line="98" column="9" selection-start="3121" selection-end="3121" vertical-scroll-proportion="0.45864663" vertical-offset="1165" max-vertical-offset="1830">
               <folding />
             </state>
           </provider>
@@ -384,7 +384,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="1686" column="2" selection-start="54800" selection-end="54800" vertical-scroll-proportion="0.5441389" vertical-offset="24914" max-vertical-offset="27150">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -400,7 +400,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="0" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.11278196" vertical-offset="735" max-vertical-offset="1770">
+        <state line="98" column="9" selection-start="3121" selection-end="3121" vertical-scroll-proportion="0.45864663" vertical-offset="1165" max-vertical-offset="1830">
           <folding />
         </state>
       </provider>

@@ -1,4 +1,7 @@
 function ListController($scope){
+
+
+
     $scope.noteList = [];
 
     $scope.add = function(){
@@ -92,7 +95,8 @@ function ListController($scope){
         // function, we must explicitly call 'app.receivedEvent(...);'
         onDeviceReady: function() {
             app.receivedEvent('deviceready');
-            //
+            console.log("deviceready");
+         //
 
 //            navigator.notification.confirm("msg",
 //                function (a,b) {

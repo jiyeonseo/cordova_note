@@ -9,4 +9,9 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <!--<preference name="Fullscreen" value="true" />-->
+    <preference name="DisallowOverscroll" value="true"/>
+    <plugins>
+        <plugin name="SQLitePlugin" value="SQLitePlugin" />
+    </plugins>
 </widget>

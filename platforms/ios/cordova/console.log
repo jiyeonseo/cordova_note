@@ -1,0 +1,375 @@
+2015-01-31 18:30:00.610 SimpleNote[87373:5329026] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/10A69BBD-9C82-4DE5-AB6B-29F0113EDD42/Library/Cookies/Cookies.binarycookies
+2015-01-31 18:30:01.112 SimpleNote[87373:5329026] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 18:30:01.113 SimpleNote[87373:5329026] Multi-tasking -> Device: YES, App: YES
+2015-01-31 18:30:01.150 SimpleNote[87373:5329026] Unlimited access to network resources
+2015-01-31 18:30:01.182 SimpleNote[87373:5329026] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 18:30:02.723 SimpleNote[87373:5329026] Resetting plugins due to page load.
+2015-01-31 18:30:03.067 SimpleNote[87373:5329026] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/C4E9A5A8-444D-4C93-8893-B03F731A23CB/SimpleNote.app/www/index.html
+2015-01-31 18:31:07.796 SimpleNote[87373:5329026] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 18:31:07.796 SimpleNote[87373:5329026] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 18:33:55.339 SimpleNote[88156:5331842] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/4F0FEF6E-6D94-4535-B217-38A962EAD746/Library/Cookies/Cookies.binarycookies
+2015-01-31 18:33:55.445 SimpleNote[88156:5331842] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 18:33:55.446 SimpleNote[88156:5331842] Multi-tasking -> Device: YES, App: YES
+2015-01-31 18:33:55.447 SimpleNote[88156:5331842] Unlimited access to network resources
+2015-01-31 18:33:55.449 SimpleNote[88156:5331842] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 18:33:55.799 SimpleNote[88156:5331842] Resetting plugins due to page load.
+2015-01-31 18:33:56.000 SimpleNote[88156:5331842] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/87955012-BDB2-4E84-8DF1-EBD1ABEE3C30/SimpleNote.app/www/index.html
+2015-01-31 18:46:29.024 SimpleNote[88733:5338434] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/12D5F40B-B4BE-408A-B78A-D3025337C10B/Library/Cookies/Cookies.binarycookies
+2015-01-31 18:46:29.130 SimpleNote[88733:5338434] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 18:46:29.130 SimpleNote[88733:5338434] Multi-tasking -> Device: YES, App: YES
+2015-01-31 18:46:29.132 SimpleNote[88733:5338434] Unlimited access to network resources
+2015-01-31 18:46:29.134 SimpleNote[88733:5338434] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 18:46:29.572 SimpleNote[88733:5338434] Resetting plugins due to page load.
+2015-01-31 18:46:29.738 SimpleNote[88733:5338434] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/A535FB0B-0C8F-4C0B-A754-19DE39157B98/SimpleNote.app/www/index.html
+2015-01-31 18:46:34.248 SimpleNote[88733:5338434] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 18:46:34.249 SimpleNote[88733:5338434] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 18:46:34.874 SimpleNote[88733:5338434] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 18:46:34.875 SimpleNote[88733:5338434] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 18:46:37.285 SimpleNote[88733:5338434] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 18:46:37.285 SimpleNote[88733:5338434] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 18:46:43.992 SimpleNote[88733:5338434] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 18:46:43.992 SimpleNote[88733:5338434] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 18:47:14.551 SimpleNote[89251:5339608] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/92A74955-B471-4B69-807D-6D48B50652F5/Library/Cookies/Cookies.binarycookies
+2015-01-31 18:47:14.632 SimpleNote[89251:5339608] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 18:47:14.632 SimpleNote[89251:5339608] Multi-tasking -> Device: YES, App: YES
+2015-01-31 18:47:14.633 SimpleNote[89251:5339608] Unlimited access to network resources
+2015-01-31 18:47:14.635 SimpleNote[89251:5339608] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 18:47:14.932 SimpleNote[89251:5339608] Resetting plugins due to page load.
+2015-01-31 18:47:15.069 SimpleNote[89251:5339608] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/7E8240D7-5A9A-4D9D-95ED-24906C9D2F64/SimpleNote.app/www/index.html
+2015-01-31 18:49:20.238 SimpleNote[89771:5341368] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/4600B10B-F51E-4B8F-A49F-082F3FC432D9/Library/Cookies/Cookies.binarycookies
+2015-01-31 18:49:20.332 SimpleNote[89771:5341368] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 18:49:20.332 SimpleNote[89771:5341368] Multi-tasking -> Device: YES, App: YES
+2015-01-31 18:49:20.333 SimpleNote[89771:5341368] Unlimited access to network resources
+2015-01-31 18:49:20.336 SimpleNote[89771:5341368] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 18:49:20.657 SimpleNote[89771:5341368] Resetting plugins due to page load.
+2015-01-31 18:49:20.794 SimpleNote[89771:5341368] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/AF4C7903-3CA1-4062-A8AF-9731EF9B014D/SimpleNote.app/www/index.html
+2015-01-31 18:50:29.859 SimpleNote[90288:5342635] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/C99943CB-4126-4573-9CFB-74337CCDC662/Library/Cookies/Cookies.binarycookies
+2015-01-31 18:50:29.979 SimpleNote[90288:5342635] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 18:50:29.980 SimpleNote[90288:5342635] Multi-tasking -> Device: YES, App: YES
+2015-01-31 18:50:29.981 SimpleNote[90288:5342635] Unlimited access to network resources
+2015-01-31 18:50:29.985 SimpleNote[90288:5342635] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 18:50:30.275 SimpleNote[90288:5342635] Resetting plugins due to page load.
+2015-01-31 18:50:30.400 SimpleNote[90288:5342635] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/4F356A49-C7D1-429C-8FF3-4336224B8F93/SimpleNote.app/www/index.html
+2015-01-31 18:56:57.812 SimpleNote[91071:5346271] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/E023BCBD-87B3-4E8A-B607-E15A18AE9C25/Library/Cookies/Cookies.binarycookies
+2015-01-31 18:56:57.914 SimpleNote[91071:5346271] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 18:56:57.914 SimpleNote[91071:5346271] Multi-tasking -> Device: YES, App: YES
+2015-01-31 18:56:57.915 SimpleNote[91071:5346271] Unlimited access to network resources
+2015-01-31 18:56:57.917 SimpleNote[91071:5346271] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 18:56:58.311 SimpleNote[91071:5346271] Resetting plugins due to page load.
+2015-01-31 18:58:03.309 SimpleNote[91071:5346301] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-01-31 18:58:03.350 SimpleNote[91071:5346271] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/8CFFEA17-FA3B-4EB6-AFC1-DA7D3F5D527C/SimpleNote.app/www/index.html
+2015-01-31 19:00:28.168 SimpleNote[91612:5348506] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/6574C7D5-57CD-43F4-9020-5A7639621385/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:00:28.265 SimpleNote[91612:5348506] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:00:28.265 SimpleNote[91612:5348506] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:00:28.266 SimpleNote[91612:5348506] Unlimited access to network resources
+2015-01-31 19:00:28.269 SimpleNote[91612:5348506] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:00:28.588 SimpleNote[91612:5348506] Resetting plugins due to page load.
+2015-01-31 19:00:30.307 SimpleNote[91612:5348506] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/FC443558-03BF-4E3A-8CD9-1B5E6EC08A57/SimpleNote.app/www/index.html
+2015-01-31 19:00:52.122 SimpleNote[92123:5349488] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/451C8E78-A83F-48D1-A520-996317CB244B/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:00:52.217 SimpleNote[92123:5349488] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:00:52.217 SimpleNote[92123:5349488] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:00:52.219 SimpleNote[92123:5349488] Unlimited access to network resources
+2015-01-31 19:00:52.221 SimpleNote[92123:5349488] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:00:52.523 SimpleNote[92123:5349488] Resetting plugins due to page load.
+2015-01-31 19:00:54.541 SimpleNote[92123:5349488] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/5827D925-3DE7-4058-B755-6D5764607832/SimpleNote.app/www/index.html
+2015-01-31 19:04:13.517 SimpleNote[92652:5351838] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/8B286E90-ECBE-4A11-9B18-23250B0675F1/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:04:13.639 SimpleNote[92652:5351838] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:04:13.639 SimpleNote[92652:5351838] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:04:13.640 SimpleNote[92652:5351838] Unlimited access to network resources
+2015-01-31 19:04:13.643 SimpleNote[92652:5351838] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:04:13.947 SimpleNote[92652:5351838] Resetting plugins due to page load.
+2015-01-31 19:04:15.465 SimpleNote[92652:5351838] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/5AE822BD-5B13-40FB-9E58-40D5C0AEE4B7/SimpleNote.app/www/index.html
+2015-01-31 19:05:12.054 SimpleNote[92652:5351838] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:05:12.054 SimpleNote[92652:5351838] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:05:14.703 SimpleNote[92652:5351838] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:05:14.703 SimpleNote[92652:5351838] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:05:15.922 SimpleNote[92652:5351838] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:05:15.922 SimpleNote[92652:5351838] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:05:16.626 SimpleNote[92652:5351838] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:05:16.626 SimpleNote[92652:5351838] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:05:17.299 SimpleNote[92652:5351838] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:05:17.299 SimpleNote[92652:5351838] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:05:18.160 SimpleNote[92652:5351838] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:05:18.161 SimpleNote[92652:5351838] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:05:19.236 SimpleNote[92652:5351838] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:05:19.236 SimpleNote[92652:5351838] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:10:29.370 SimpleNote[98280:5361098] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/9E06DF50-14F6-401F-8DCC-5F4CDC4AA175/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:10:29.620 SimpleNote[98280:5361098] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:10:29.621 SimpleNote[98280:5361098] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:10:29.622 SimpleNote[98280:5361098] Unlimited access to network resources
+2015-01-31 19:10:29.624 SimpleNote[98280:5361098] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:10:29.940 SimpleNote[98280:5361098] Resetting plugins due to page load.
+2015-01-31 19:10:32.983 SimpleNote[98280:5361098] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/926749E1-83BC-49E8-AA45-786104F29E85/SimpleNote.app/www/index.html
+2015-01-31 19:14:17.969 SimpleNote[99364:5364875] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/46A0674E-BD2B-4005-ADF3-AB7B6C3B5208/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:14:18.140 SimpleNote[99364:5364875] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:14:18.141 SimpleNote[99364:5364875] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:14:18.143 SimpleNote[99364:5364875] Unlimited access to network resources
+2015-01-31 19:14:18.146 SimpleNote[99364:5364875] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:14:18.471 SimpleNote[99364:5364875] Resetting plugins due to page load.
+2015-01-31 19:14:18.573 SimpleNote[99364:5364875] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/0CA1A755-6DDE-43A2-AA75-3DF619406D36/SimpleNote.app/www/index.html
+2015-01-31 19:15:57.893 SimpleNote[99886:5366448] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/743C883C-E49B-485A-B2C3-6D66CF8F7A8C/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:15:58.015 SimpleNote[99886:5366448] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:15:58.016 SimpleNote[99886:5366448] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:15:58.017 SimpleNote[99886:5366448] Unlimited access to network resources
+2015-01-31 19:15:58.020 SimpleNote[99886:5366448] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:15:58.297 SimpleNote[99886:5366448] Resetting plugins due to page load.
+2015-01-31 19:15:58.416 SimpleNote[99886:5366448] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/51FBA86D-F8D8-485C-8F69-34A93834EBB3/SimpleNote.app/www/index.html
+2015-01-31 19:16:05.378 SimpleNote[99886:5366448] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:16:05.378 SimpleNote[99886:5366448] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:16:05.632 SimpleNote[99886:5366448] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:16:05.632 SimpleNote[99886:5366448] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:16:48.542 SimpleNote[289:5367300] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/3C68E79F-EA66-47A2-B48E-9270093F03D4/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:16:48.681 SimpleNote[289:5367300] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:16:48.682 SimpleNote[289:5367300] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:16:48.684 SimpleNote[289:5367300] Unlimited access to network resources
+2015-01-31 19:16:48.686 SimpleNote[289:5367300] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:16:48.963 SimpleNote[289:5367300] Resetting plugins due to page load.
+2015-01-31 19:16:49.077 SimpleNote[289:5367300] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/0EC55257-58E7-44B4-9EDD-1D6F06646E8D/SimpleNote.app/www/index.html
+2015-01-31 19:17:36.257 SimpleNote[817:5368510] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/E74196C7-34BC-45FD-B88D-9F034485B8BF/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:17:36.373 SimpleNote[817:5368510] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:17:36.374 SimpleNote[817:5368510] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:17:36.376 SimpleNote[817:5368510] Unlimited access to network resources
+2015-01-31 19:17:36.379 SimpleNote[817:5368510] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:17:36.674 SimpleNote[817:5368510] Resetting plugins due to page load.
+2015-01-31 19:17:36.803 SimpleNote[817:5368510] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/D9AA8E8D-F944-44F4-9E44-08F5F8853CB1/SimpleNote.app/www/index.html
+2015-01-31 19:18:33.899 SimpleNote[1092:5369451] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/1281AB5C-6533-4AAA-AF89-0C91B80180B2/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:18:34.002 SimpleNote[1092:5369451] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:18:34.003 SimpleNote[1092:5369451] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:18:34.004 SimpleNote[1092:5369451] Unlimited access to network resources
+2015-01-31 19:18:34.007 SimpleNote[1092:5369451] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:18:34.317 SimpleNote[1092:5369451] Resetting plugins due to page load.
+2015-01-31 19:18:34.433 SimpleNote[1092:5369451] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/36B3272E-2139-463F-85AA-D96919319E05/SimpleNote.app/www/index.html
+2015-01-31 19:19:12.321 SimpleNote[1365:5370051] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/3D7F64C3-3EC1-42BA-9F18-DB4B8E9E81C7/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:19:12.468 SimpleNote[1365:5370051] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:19:12.469 SimpleNote[1365:5370051] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:19:12.471 SimpleNote[1365:5370051] Unlimited access to network resources
+2015-01-31 19:19:12.474 SimpleNote[1365:5370051] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:19:12.764 SimpleNote[1365:5370051] Resetting plugins due to page load.
+2015-01-31 19:19:12.887 SimpleNote[1365:5370051] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/39601352-9B94-4187-B8AA-27E5F33FA0FB/SimpleNote.app/www/index.html
+2015-01-31 19:19:24.354 SimpleNote[1631:5370570] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/43A76830-C7CE-4923-9ABA-5720F3B0DE45/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:19:24.486 SimpleNote[1631:5370570] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:19:24.486 SimpleNote[1631:5370570] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:19:24.488 SimpleNote[1631:5370570] Unlimited access to network resources
+2015-01-31 19:19:24.490 SimpleNote[1631:5370570] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:19:24.861 SimpleNote[1631:5370570] Resetting plugins due to page load.
+2015-01-31 19:19:26.509 SimpleNote[1631:5370570] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/C5AD5634-0F4F-4A56-B0ED-950B66117803/SimpleNote.app/www/index.html
+2015-01-31 19:19:47.327 SimpleNote[1901:5371207] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/1D72DE18-9559-4C2E-B3F9-A312AD3F2D51/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:19:47.461 SimpleNote[1901:5371207] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:19:47.462 SimpleNote[1901:5371207] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:19:47.463 SimpleNote[1901:5371207] Unlimited access to network resources
+2015-01-31 19:19:47.465 SimpleNote[1901:5371207] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:19:47.746 SimpleNote[1901:5371207] Resetting plugins due to page load.
+2015-01-31 19:19:47.866 SimpleNote[1901:5371207] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/F2BEC88B-A1F1-4E71-8E35-A832E7B7600D/SimpleNote.app/www/index.html
+2015-01-31 19:20:26.392 SimpleNote[2167:5371806] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/844ED52F-8BC8-4DE2-91B3-3EB81D4739BE/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:20:26.515 SimpleNote[2167:5371806] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:20:26.515 SimpleNote[2167:5371806] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:20:26.517 SimpleNote[2167:5371806] Unlimited access to network resources
+2015-01-31 19:20:26.519 SimpleNote[2167:5371806] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:20:26.783 SimpleNote[2167:5371806] Resetting plugins due to page load.
+2015-01-31 19:20:26.902 SimpleNote[2167:5371806] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/1484531E-2A8B-4F6D-BFE5-889035758032/SimpleNote.app/www/index.html
+2015-01-31 19:20:42.005 SimpleNote[2435:5372424] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/F2FB1510-8A5D-40C3-8F09-F8615CFFBBED/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:20:42.123 SimpleNote[2435:5372424] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:20:42.123 SimpleNote[2435:5372424] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:20:42.124 SimpleNote[2435:5372424] Unlimited access to network resources
+2015-01-31 19:20:42.128 SimpleNote[2435:5372424] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:20:42.436 SimpleNote[2435:5372424] Resetting plugins due to page load.
+2015-01-31 19:20:42.498 SimpleNote[2435:5372424] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/D191F63A-718C-40A9-B3A0-1F66A4A44475/SimpleNote.app/www/index.html
+2015-01-31 19:21:04.580 SimpleNote[2701:5372983] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/7C006D80-5FBA-4C4F-8374-F931B585C655/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:21:04.700 SimpleNote[2701:5372983] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:21:04.700 SimpleNote[2701:5372983] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:21:04.702 SimpleNote[2701:5372983] Unlimited access to network resources
+2015-01-31 19:21:04.706 SimpleNote[2701:5372983] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:21:05.001 SimpleNote[2701:5372983] Resetting plugins due to page load.
+2015-01-31 19:21:05.130 SimpleNote[2701:5372983] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/6690F072-E874-48C0-88B0-2AB4AFA55BC3/SimpleNote.app/www/index.html
+2015-01-31 19:21:37.634 SimpleNote[2967:5373687] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/73D0D5A0-DA75-447A-9535-CB6D94A5309D/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:21:37.747 SimpleNote[2967:5373687] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:21:37.748 SimpleNote[2967:5373687] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:21:37.749 SimpleNote[2967:5373687] Unlimited access to network resources
+2015-01-31 19:21:37.751 SimpleNote[2967:5373687] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:21:38.020 SimpleNote[2967:5373687] Resetting plugins due to page load.
+2015-01-31 19:21:38.080 SimpleNote[2967:5373687] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/C7F26A68-6846-4B4C-8826-6EBA1ACEBACE/SimpleNote.app/www/index.html
+2015-01-31 19:24:17.575 SimpleNote[3263:5375697] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Data/Application/10375E3B-AA2C-4F48-924B-79578EBCAC26/Library/Cookies/Cookies.binarycookies
+2015-01-31 19:24:18.073 SimpleNote[3263:5375697] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-31 19:24:18.074 SimpleNote[3263:5375697] Multi-tasking -> Device: YES, App: YES
+2015-01-31 19:24:18.080 SimpleNote[3263:5375697] Unlimited access to network resources
+2015-01-31 19:24:18.095 SimpleNote[3263:5375697] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-31 19:24:20.044 SimpleNote[3263:5375697] Resetting plugins due to page load.
+2015-01-31 19:24:20.623 SimpleNote[3263:5375697] Finished load of: file:///Users/jiyeon/Library/Developer/CoreSimulator/Devices/E4B915C3-8113-42CA-939C-CD7BEC45C745/data/Containers/Bundle/Application/146CD529-8D37-4C28-9871-4698EC79951C/SimpleNote.app/www/index.html
+2015-01-31 19:24:31.456 SimpleNote[3263:5375697] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:24:31.457 SimpleNote[3263:5375697] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:24:35.341 SimpleNote[3263:5375697] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:24:35.342 SimpleNote[3263:5375697] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:24:36.960 SimpleNote[3263:5375697] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:24:36.960 SimpleNote[3263:5375697] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:24:37.635 SimpleNote[3263:5375697] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:24:37.635 SimpleNote[3263:5375697] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:24:38.245 SimpleNote[3263:5375697] CDVWebViewDelegate: Navigation started when state=1
+2015-01-31 19:24:38.246 SimpleNote[3263:5375697] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1

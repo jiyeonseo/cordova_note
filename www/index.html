@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html ng-app>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <title>simple note</title>
+        <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
+    </head>
+    <body ng-controller="ListController">
+        <div class="col-sm-5 bootcards-list" data-title="Contacts" style="margin-top: 10px;">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="search-form">
+                        <div class="row">
+                            <div class="col-xs-9">
+                                <input id="textInput" type="text" class="form-control" placeholder="tell me tell me" ng-model="test">
+                            </div>
+                            <div class="col-xs-3">
+                                <a class="btn btn-primary btn-block" href="#" onclick="add()"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="list-group" id="list">
+                    <div ng-repeat="note in noteList">
+                        <a class="list-group-item" href="#">
+                            {{note.title}}<button id="deleteBtn" ng-click="delete($index);">delete</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript" src="bower_components/jquery/dist/jquery.js"></script>
+        <script type="text/javascript" src="bower_components/angular/angular.js"></script>
+        <script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+    </body>
+</html>

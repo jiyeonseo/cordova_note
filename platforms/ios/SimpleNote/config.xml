@@ -22,6 +22,9 @@
     <feature name="SQLitePlugin">
         <param name="ios-package" value="SQLitePlugin" />
     </feature>
+    <feature name="Notification">
+        <param name="ios-package" value="CDVNotification" />
+    </feature>
     <name>SimpleNote</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.

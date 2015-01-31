@@ -12,6 +12,12 @@
                             "xml": "false",
                             "count": 1
                         }
+                    ],
+                    "AudioToolbox.framework": [
+                        {
+                            "xml": "true",
+                            "count": 1
+                        }
                     ]
                 }
             },
@@ -21,6 +27,10 @@
                         {
                             "xml": "<feature name=\"SQLitePlugin\"><param name=\"ios-package\" value=\"SQLitePlugin\" /></feature>",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Notification\"><param name=\"ios-package\" value=\"CDVNotification\" /></feature>",
+                            "count": 1
                         }
                     ]
                 }
@@ -29,6 +39,9 @@
     },
     "installed_plugins": {
         "com.brodysoft.sqlitePlugin": {
+            "PACKAGE_NAME": "net.jiyeonseo.note"
+        },
+        "org.apache.cordova.dialogs": {
             "PACKAGE_NAME": "net.jiyeonseo.note"
         }
     },

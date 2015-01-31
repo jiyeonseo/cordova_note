@@ -10,6 +10,6 @@
 - soooon Android
 
 # blog
-- [mendorong.postach.io](http://mendorong.postach.io)
+- [mendorong.postach.io](http://mendorong.postach.io/tag/cordova)
 
 # Special Thanks to [maczoo](https://github.com/joon1030)
